@@ -16,7 +16,7 @@ Welcome to the LLM Interview Agent project! This application leverages LangChain
 
 ## Introduction
 
-The LLM Interview Agent is designed to simulate an interview to a famous person process. Using the power of LangChain, it generates relevant number of interview questions. The user then provides answers as the person being interviewed and at the end of the process an html file is generated simulating a blog post that summarizes the content of the interview.
+The LLM Interviewer is designed to simulate an interview to a famous person. Using the power of LangChain and NVIDIA endpoints, it generates relevant number of interview questions. The user then provides answers as the person being interviewed and at the end of the process an html file is generated simulating a blog post that summarizes the content of the interview.
 
 ## Features
 
